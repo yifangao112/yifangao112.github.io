@@ -47,11 +47,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Ph.D. in biomedical engineering, University of Science and Technology of China, Hefei, China 
+- *2018.09 - 2022.06*, B.Eng. in biomedical engineering, Northeastern University, Shenyang, China. 
 
 # 💬 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 💻 Hobbies
-- Go (Weiqi): Certificated as amateur 5 dan by CWA (Chinese Weiqi Association).
+- Go (Weiqi): Certificated as amateur 5 dan by Chinese Weiqi Association.
+- On my spare time, I like playing badminton, tennis, and video games!
