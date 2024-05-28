@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 - Scholarship of Academic Excellence, University of Science and Technology of China, 2023
 - Excellence Scholarship, Northeastern University, 2022
-- National Computer Game Tournament Championship, 2021
+- National Computer Game Tournament Champion, 2021
 - National Computer Game Tournament Champion, 2020
 - Scholarship of Academic Excellence, Northeastern University, 2019-2022
 
