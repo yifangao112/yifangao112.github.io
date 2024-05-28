@@ -21,7 +21,7 @@ redirect_from:
 # 🙇🏻‍♂️ About me
 I have been pursuing a Ph.D. degree in the School of Biomedical Engineering at the University of Science and Technology of China since 2022. Prior to this, I obtained my bachelor's degree in biomedical engineering from Northeastern University. My research interests lie in medical image analysis and AI in medicine. My goal is to address medical challenges through computational methods and contribute to improving the quality of healthcare. 
 
-In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database for professional Go games. I am also the developor of DeepKylin, an AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021. In 2020, DeepKylin won all 20 matches, and in 2021, it continued its dominance with an impressive record of 42 wins and 1 loss.
+In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developor of DeepKylin, an AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021. In 2020, DeepKylin won all 20 matches, and in 2021, it continued its dominance with an impressive record of 42 wins and 1 loss.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
