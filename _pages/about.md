@@ -52,11 +52,11 @@ My research interest includes neural machine translation and computer vision. I 
 - Scholarship of Academic Excellence, Northeastern University, 2019-2022
 
 # 💻 Services
-Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI)
-Reviewer of Medical Image Computing and Computer Assisted Intervention (MICCAI)
-Reviewer of International Journal of Imaging Systems and Technology (IMA)
-Reviewer of Peerj Computer Science
-Reviewer of IEEE Access
+- Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI)
+- Reviewer of Medical Image Computing and Computer Assisted Intervention (MICCAI)
+- Reviewer of International Journal of Imaging Systems and Technology (IMA)
+- Reviewer of Peerj Computer Science
+- Reviewer of IEEE Access
 
 # 📖 Educations
 - *2022.09 - now*, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
