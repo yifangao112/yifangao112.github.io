@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifan Gao"
-description              : "Ph.D. student in University of Science and Technology of China, School of Biomedical Engineering. Focusing on medical image analysis and AI in medicine."
+description              : "Ph.D. student in USTC, School of Biomedical Engineering. Focusing on medical image analysis and AI in medicine."
 repository               : "yifangao112/yifangao112.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifan Gao"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "USTC"
+  bio              : "University of Science and Technology of China"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
