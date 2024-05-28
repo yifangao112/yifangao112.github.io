@@ -51,13 +51,17 @@ My research interest includes neural machine translation and computer vision. I 
 - National Computer Game Tournament Champion, 2020
 - Scholarship of Academic Excellence, Northeastern University, 2019-2022
 
+# 💻 Services
+Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI)
+Reviewer of Medical Image Computing and Computer Assisted Intervention (MICCAI)
+Reviewer of International Journal of Imaging Systems and Technology (IMA)
+Reviewer of Peerj Computer Science
+Reviewer of IEEE Access
+
 # 📖 Educations
 - *2022.09 - now*, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
 - *2018.09 - 2022.06*, B.Eng. in Biomedical Engineering, Northeastern University, Shenyang, China. 
 
-# 💬 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
-# 💻 Hobbies
+# 🏸 Hobbies
 - Go (Weiqi): Certificated as amateur 5 dan by Chinese Weiqi Association.
 - On my spare time, I like playing badminton, tennis, and video games!
