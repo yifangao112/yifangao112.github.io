@@ -31,7 +31,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/desam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation](https://arxiv.org/pdf/2306.00499)
@@ -43,7 +43,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2023</div><img src='images/parotid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651)
@@ -55,7 +55,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ToG 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ToG 2023</div><img src='images/page.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Professional Go Annotation Dataset](https://github.com/yifangao112/PAGE)
