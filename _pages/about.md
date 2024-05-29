@@ -24,8 +24,10 @@ I'm a **Ph.D student in School of Biomedical Engineering, University of Science 
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developor of DeepKylin, an AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021. In 2020, DeepKylin won all 20 matches, and in 2021, it continued its dominance with an impressive record of 42 wins and 1 loss.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 Our work ([DeSAM](https://github.com/yifangao112/DeSAM)) is accepted at **MICCAI 2024**! 
+- *2023.12*: &nbsp;🎉🎉 Our work ([PAGE](https://github.com/yifangao112/PAGE)) is accepted at **IEEE Transactions on Games**.
+- *2023.05*: &nbsp;🎉🎉 [Our work](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651) is accepted at **Computers in Biology and Medicine** (IF=7.7).
+- *2022.06*: &nbsp;🎉🎉 Awarded by **Excellence Scholarship**, Northeastern University, 2022.
 
 # 📝 Publications 
 
