@@ -67,7 +67,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2021</div><img src='images/nogo.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Efficiently Mastering the Game of NoGo with Deep Reinforcement Learning Supported by Domain Knowledge](https://www.mdpi.com/2079-9292/10/13/1533)
