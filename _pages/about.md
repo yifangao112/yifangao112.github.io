@@ -52,11 +52,11 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 - Academic Excellence Scholarship, Northeastern University, 2019-2022
 
 # 💻 Services
-Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science,  IEEE Access
+- Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science,  IEEE Access
 
 # 📖 Educations
-- *2022 - present*, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
-- *2018 - 2022*, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
+- 2022 - present, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
+- 2018 - 2022, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
 
 # 🏸 Hobbies
 - Go (Weiqi): Certificated as amateur 5 dan by Chinese Weiqi Association.
