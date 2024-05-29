@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🙇🏻‍♂️ About me
-I have been pursuing a Ph.D. degree in the School of Biomedical Engineering at the University of Science and Technology of China since 2022. Prior to this, I obtained my bachelor's degree in biomedical engineering from Northeastern University. My research interests lie in medical image analysis and AI in medicine. My goal is to address medical challenges through computational methods and contribute to improving the quality of healthcare. 
+I'm a **Ph.D student in School of Biomedical Engineering, University of Science and Technology of China**, advised by Prof. Xin Gao. Prior to this, I obtained my bachelor's degree in biomedical engineering from Northeastern University in 2022. My research interests lie in medical image analysis and AI in medicine. My goal is to address medical challenges through computational methods and contribute to improving the quality of healthcare. 
 
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developor of DeepKylin, an AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021. In 2020, DeepKylin won all 20 matches, and in 2021, it continued its dominance with an impressive record of 42 wins and 1 loss.
 
@@ -44,17 +44,17 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🏆 Honors and Awards
-- Scholarship of Academic Excellence, University of Science and Technology of China, 2023
+- Academic Excellence Scholarship, University of Science and Technology of China, 2023
 - Excellence Scholarship, Northeastern University, 2022
 - National Computer Game Tournament Champion, 2020-2021
-- Scholarship of Academic Excellence, Northeastern University, 2019-2022
+- Academic Excellence Scholarship, Northeastern University, 2019-2022
 
 # 💻 Services
-Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), Peerj Computer Science,  IEEE Access
+Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science,  IEEE Access
 
 # 📖 Educations
-- *2022.09 - now*, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
-- *2018.09 - 2022.06*, B.Eng. in Biomedical Engineering, Northeastern University, Shenyang, China. 
+- *2022 - present*, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
+- *2018 - 2022*, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
 
 # 🏸 Hobbies
 - Go (Weiqi): Certificated as amateur 5 dan by Chinese Weiqi Association.
