@@ -24,7 +24,7 @@ I'm a **Ph.D student in School of Biomedical Engineering, University of Science 
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developor of DeepKylin, an AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021. In 2020, DeepKylin won all 20 matches, and in 2021, it continued its dominance with an impressive record of 42 wins and 1 loss.
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Our work ([DeSAM](https://github.com/yifangao112/DeSAM)) is accepted at **MICCAI 2024**! 
+- *2024.06*: &nbsp;🎉🎉 Two papers are accepted at **MICCAI 2024**! 
 - *2023.12*: &nbsp;🎉🎉 Our work ([PAGE](https://github.com/yifangao112/PAGE)) is accepted at **IEEE Transactions on Games**.
 - *2023.05*: &nbsp;🎉🎉 [Our work](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651) is accepted at **Computers in Biology and Medicine** (IF=7.7).
 - *2022.06*: &nbsp;🎉🎉 Awarded by **Excellence Scholarship**, Northeastern University, 2022.
@@ -35,7 +35,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 <div class='paper-box-text' markdown="1">
 
 [DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation](https://arxiv.org/pdf/2306.00499)
-
+**MICCAI 2024**
 **Yifan Gao**, Wei Xia, Dingdu Hu, Wenkui Wang, Xin Gao
 
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=lzAiM94AAAAJ&citation_for_view=lzAiM94AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:7PzlFSSx8tAC'></span></strong>
@@ -47,7 +47,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 <div class='paper-box-text' markdown="1">
 
 [An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651)
-
+**Computers in Biology and Medicine 2023**
 **Yifan Gao**, Yin Dai, Fayu Liu, Weibing Chen, Lifu Shi
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -59,7 +59,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 <div class='paper-box-text' markdown="1">
 
 [The Professional Go Annotation Dataset](https://github.com/yifangao112/PAGE)
-
+**IEEE Transactions on Games 2023**
 **Yifan Gao**, Danni Zhang, Haoyue Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -71,7 +71,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 <div class='paper-box-text' markdown="1">
   
 [Efficiently Mastering the Game of NoGo with Deep Reinforcement Learning Supported by Domain Knowledge](https://www.mdpi.com/2079-9292/10/13/1533)
-
+**Electronics 2021**
 **Yifan Gao**, Lezhou Wu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
