@@ -45,7 +45,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/desam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/mbanet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation](https://arxiv.org/pdf/2306.00499)
