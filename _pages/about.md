@@ -41,7 +41,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 **MICCAI 2024**
 
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=lzAiM94AAAAJ&citation_for_view=lzAiM94AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:7PzlFSSx8tAC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- DeSAM addresses the performance degradation of SAM in automatic segmentation scenarios. By decoupling the mask generation process from prompts and introducing prompt-relevant IoU and prompt-decoupled mask modules, DeSAM achieves state-of-the-art performance in two public datasets. 
 </div>
 </div>
 
