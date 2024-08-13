@@ -55,7 +55,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 **MICCAI 2024**
 
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=lzAiM94AAAAJ&citation_for_view=lzAiM94AAAAJ:-f6ydRqryjwC) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:f6ydRqryjwC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We developed MBA-Net, a novel architecture for ovarian tumor segmentation that integrates the Segment Anything Model (SAM) with domain-specific knowledge through bidirectional feature aggregation. MBA-Net demonstrates superior segmentation accuracy, robustness to tumor heterogeneity, and strong generalization capability across different imaging modalities and clinical sites. 
 </div>
 </div>
 
