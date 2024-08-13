@@ -36,9 +36,9 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 [DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation](https://arxiv.org/pdf/2306.00499)
 
-**MICCAI 2024**
-
 **Yifan Gao**, Wei Xia, Dingdu Hu, Wenkui Wang, Xin Gao
+
+**MICCAI 2024**
 
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=lzAiM94AAAAJ&citation_for_view=lzAiM94AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:7PzlFSSx8tAC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,9 +50,9 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 [MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation](https://arxiv.org/pdf/2306.00499)
 
-**MICCAI 2024**
-
 **Yifan Gao**, Wei Xia, Wenkui Wang, Xin Gao
+
+**MICCAI 2024**
 
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=lzAiM94AAAAJ&citation_for_view=lzAiM94AAAAJ:-f6ydRqryjwC) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:f6ydRqryjwC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -64,9 +64,9 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 [An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651)
 
-**Computers in Biology and Medicine 2023**
-
 **Yifan Gao**, Yin Dai, Fayu Liu, Weibing Chen, Lifu Shi
+
+**Computers in Biology and Medicine**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -78,9 +78,9 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 [The Professional Go Annotation Dataset](https://github.com/yifangao112/PAGE)
 
-**IEEE Transactions on Games 2023**
-
 **Yifan Gao**, Danni Zhang, Haoyue Li
+
+**IEEE Transactions on Games**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -92,9 +92,9 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
   
 [Efficiently Mastering the Game of NoGo with Deep Reinforcement Learning Supported by Domain Knowledge](https://www.mdpi.com/2079-9292/10/13/1533)
 
-**Electronics 2021**
-
 **Yifan Gao**, Lezhou Wu
+
+**Electronics**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
