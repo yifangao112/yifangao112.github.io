@@ -25,7 +25,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Two papers are accepted at **MICCAI 2024**! 
-- *2023.12*: &nbsp;🎉🎉 Our work ([PAGE](https://github.com/yifangao112/PAGE)) is accepted at **IEEE Transactions on Games**.
+- *2023.12*: &nbsp;🎉🎉 Our work ([PAGE](https://github.com/yifangao112/PAGE)) is accepted at **IEEE Transactions on Games** (IF=2.3).
 - *2023.05*: &nbsp;🎉🎉 [Our work](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651) is accepted at **Computers in Biology and Medicine** (IF=7.7).
 - *2022.06*: &nbsp;🎉🎉 Awarded by **Excellence Scholarship**, Northeastern University, 2022.
 
