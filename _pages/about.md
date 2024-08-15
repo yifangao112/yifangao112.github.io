@@ -116,7 +116,8 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 - Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science,  IEEE Access
 
 # 📖 Educations
-- 2022 - present, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
+- 2024 - present, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
+- 2022 - 2024, M.Sc. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
 - 2018 - 2022, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
 
 # 🏸 Hobbies
