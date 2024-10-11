@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-at
 
 # 🧑‍🎓 About me
 I'm a **Ph.D student at School of Biomedical Engineering, University of Science and Technology of China**, advised by Prof. [Xin Gao](http://sibet.cas.cn/sourcedb/zw/yjdw/yjy/201306/t20130621_3879548.html). I'm also pursuing my doctoral studies at the Shanghai Innovation Institute through a joint program. Prior to this, I obtained my bachelor's degree in biomedical engineering from Northeastern University in 2022. My research interests lie in **medical image analysis** and **AI in medicine**. My goal is to address medical challenges through computational methods and contribute to improving the quality of healthcare. 
