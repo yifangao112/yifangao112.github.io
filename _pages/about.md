@@ -106,15 +106,16 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 
 # 🏆 Honors and Awards
-- Academic Excellence Scholarship, University of Science and Technology of China, 2023
+- Academic Scholarship, University of Science and Technology of China, 2022-2024
 - Excellence Scholarship, Northeastern University, 2022
 - National Computer Game Tournament Champion, 2020-2021
-- Academic Excellence Scholarship, Northeastern University, 2019-2022
+- Academic Scholarship, Northeastern University, 2018-2021
 
 # 💻 Services
 - Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science,  IEEE Access
 
 # 📖 Educations
+- 2024 - present, Ph.D. in Artificial Intelligence, Shanghai Innovation Institute, Shanghai, China 
 - 2024 - present, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
 - 2022 - 2024, M.Sc. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
 - 2018 - 2022, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
