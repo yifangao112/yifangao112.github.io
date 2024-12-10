@@ -43,9 +43,9 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 [Multimodal Large Language Models Address Clinical Queries in Laryngeal Cancer Surgery: A Comparative Evaluation of Image Interpretation Across Different Models](https://arxiv.org/pdf/2306.00499)
 
-**Yifan Gao**, Wei Xia, Dingdu Hu, Wenkui Wang, Xin Gao
+Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 
-**MICCAI 2024**
+**International Journal of Surgery**
 
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=lzAiM94AAAAJ&citation_for_view=lzAiM94AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:7PzlFSSx8tAC'></span></strong>
 - Six multimodal large language models (MLLMs) were evaluated across 6 image types, 169 images, and 1084 open-ended clinical questions in laryngeal cancer surgery. Advanced MLLMs demonstrate high accuracy (up to 79.43%) in interpreting diverse image modalities, with commercial models outperforming open-source alternatives. MLLMs show potential to enhance clinical decision-making across the surgical timeline of laryngeal cancer, from preoperative planning to post-operative care.
@@ -86,7 +86,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 [An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651)
 
-**Yifan Gao**, Yin Dai, Fayu Liu, Weibing Chen, Lifu Shi
+**Yifan Gao#**, Yin Dai#, Fayu Liu, Weibing Chen, Lifu Shi
 
 **Computers in Biology and Medicine**
 
@@ -114,7 +114,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
   
 [Efficiently Mastering the Game of NoGo with Deep Reinforcement Learning Supported by Domain Knowledge](https://www.mdpi.com/2079-9292/10/13/1533)
 
-**Yifan Gao**, Lezhou Wu
+**Yifan Gao#**, Lezhou Wu#
 
 **Electronics**
 
