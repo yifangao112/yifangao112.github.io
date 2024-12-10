@@ -23,15 +23,37 @@ I'm a Ph.D student at School of Biomedical Engineering, University of Science an
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developor of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Our work is accepted at **International Journal of Surgery** (IF=12.5).
 - *2024.11*: &nbsp;🎉🎉 Awarded by **Shenyang Natural Science Academic Achievement** (First Prize, First Student Contributor), 2024.
 - *2024.06*: &nbsp;🎉🎉 Two papers are accepted at **MICCAI 2024**! 
-- *2023.12*: &nbsp;🎉🎉 [Our work](https://github.com/yifangao112/PAGE) is accepted at **IEEE Transactions on Games** (IF=2.3).
-- *2023.05*: &nbsp;🎉🎉 [Our work](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651) is accepted at **Computers in Biology and Medicine** (IF=7.7).
+- *2023.12*: &nbsp;🎉🎉 Our work is accepted at **IEEE Transactions on Games** (IF=2.3).
+- *2023.05*: &nbsp;🎉🎉 Our work is accepted at **Computers in Biology and Medicine** (IF=7.7).
 - *2022.06*: &nbsp;🎉🎉 Awarded by **Excellence Scholarship**, Northeastern University, 2022.
+
+# 📖 Educations
+- 2024 - present, Ph.D. in Artificial Intelligence, Shanghai Innovation Institute, Shanghai, China 
+- 2024 - present, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
+- 2022 - 2024, M.Sc. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
+- 2018 - 2022, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/desam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Large Language Models Address Clinical Queries in Laryngeal Cancer Surgery: A Comparative Evaluation of Image Interpretation Across Different Models](https://arxiv.org/pdf/2306.00499)
+
+**Yifan Gao**, Wei Xia, Dingdu Hu, Wenkui Wang, Xin Gao
+
+**MICCAI 2024**
+
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=lzAiM94AAAAJ&citation_for_view=lzAiM94AAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:7PzlFSSx8tAC'></span></strong>
+- Six multimodal large language models (MLLMs) were evaluated across 6 image types, 169 images, and 1084 open-ended clinical questions in laryngeal cancer surgery. Advanced MLLMs demonstrate high accuracy (up to 79.43%) in interpreting diverse image modalities, with commercial models outperforming open-source alternatives. MLLMs show potential to enhance clinical decision-making across the surgical timeline of laryngeal cancer, from preoperative planning to post-operative care.
+ 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS 2024</div><img src='images/larynxllm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation](https://arxiv.org/pdf/2306.00499)
@@ -105,9 +127,8 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 - [GomokuNet: A Novel UNet-style Network for Gomoku Zero Learning via Exploiting Positional Information and Multiscale Features](https://ieeexplore.ieee.org/abstract/document/9619111), **Yifan Gao**, Lezhou Wu, Haoyue Li, **IEEE Conference on Games**, 2021
 - [TransMed: Transformers Advance Multi-modal Medical Image Classification](https://www.mdpi.com/2075-4418/11/8/1384), Yin Dai, **Yifan Gao**, Fayu Liu, **Diagnostics**, 2021 (This paper was the most cited article among 3,223 papers published in this journal in 2021, according to Web of Science)
 
-
 # 🏆 Honors and Awards
-- Shenyang Natural Science Academic Achievement Award (First Prize, Second Principal Contributor), 2024
+- Shenyang Natural Science Academic Achievement Award (First Prize, First Student Contributor), 2024
 - Academic Scholarship, University of Science and Technology of China, 2022-2024
 - Excellence Scholarship, Northeastern University, 2022
 - National Computer Game Tournament Champion, 2020-2021
@@ -115,12 +136,6 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 # 💻 Services
 - Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science,  IEEE Access
-
-# 📖 Educations
-- 2024 - present, Ph.D. in Artificial Intelligence, Shanghai Innovation Institute, Shanghai, China 
-- 2024 - present, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
-- 2022 - 2024, M.Sc. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
-- 2018 - 2022, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
 
 # 🏸 Hobbies
 - Go (Weiqi): Certificated as amateur 5 dan by Chinese Weiqi Association.
