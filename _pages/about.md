@@ -23,7 +23,8 @@ I'm a Ph.D student at School of Biomedical Engineering, University of Science an
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developor of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our work is accepted at **International Journal of Surgery** (IF=12.5).
+- *2025.06*: &nbsp;🎉🎉 Three papers are accepted at **MICCAI 2025**! 
+- *2025.01*: &nbsp;🎉🎉 Our work is accepted at **International Journal of Surgery** (IF=12.5).
 - *2024.11*: &nbsp;🎉🎉 Awarded by **Shenyang Natural Science Academic Achievement** (First Prize, First Student Contributor), 2024.
 - *2024.06*: &nbsp;🎉🎉 Two papers are accepted at **MICCAI 2024**! 
 - *2023.12*: &nbsp;🎉🎉 Our work is accepted at **IEEE Transactions on Games** (IF=2.3).
@@ -135,7 +136,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 - Academic Scholarship, Northeastern University, 2018-2021
 
 # 💻 Services
-- Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science,  IEEE Access
+- Reviewer of IEEE Transactions on Medical Imaging (TMI), International Journal of Surgery, IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science,  IEEE Access
 
 # 🏸 Hobbies
 - Go (Weiqi): Certificated as amateur 5 dan by Chinese Weiqi Association.
