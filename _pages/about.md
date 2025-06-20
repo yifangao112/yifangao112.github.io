@@ -23,7 +23,8 @@ I'm a Ph.D student at School of Biomedical Engineering, University of Science an
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developor of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021.
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Three papers are accepted at **MICCAI 2025**! 
+- *2025.07*: &nbsp;🎉🎉 Two papers are accepted at **Engineering Applications of Artificial Intelligence** (IF=8.0).
+- *2025.06*: &nbsp;🎉🎉 Three papers are accepted at **MICCAI 2025**.
 - *2025.01*: &nbsp;🎉🎉 Our work is accepted at **International Journal of Surgery** (IF=12.5).
 - *2024.11*: &nbsp;🎉🎉 Awarded by **Shenyang Natural Science Academic Achievement** (First Prize, First Student Contributor), 2024.
 - *2024.06*: &nbsp;🎉🎉 Two papers are accepted at **MICCAI 2024**! 
