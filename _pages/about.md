@@ -63,7 +63,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 **MICCAI 2025**
 
-[**Project**](https://github.com/yifangao112/CAA-Seg) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/yifangao112/CAA-Seg) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:NMxIlDl6LWMC'></span></strong>
 - CAA-Seg addresses spatial misalignment and intensity variations in multi-sequence CMR images through selective slice alignment and hierarchical feature alignment. It achieves superior performance in myocardial lesion segmentation, particularly for myocardial infarction, on a large-scale dataset.
 </div>
 </div>
