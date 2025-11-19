@@ -40,6 +40,62 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/safeclick.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SafeClick: Error-Tolerant Interactive Segmentation of Any Medical Volumes via Hierarchical Expert Consensus](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_46)
+
+**Yifan Gao#**, Jiaxi Sheng#, Wenbin Wu, Haoyue Li, Yaoxian Dong, Chaoyang Ge, Feng Yuan, Xin Gao
+
+**MICCAI 2025**
+
+[**Project**](https://github.com/yifangao112/SafeClick)
+- SafeClick is an error-tolerant interactive segmentation approach that uses hierarchical expert consensus to handle imperfect user prompts. As a plug-and-play module compatible with foundation models like SAM 2, it significantly improves segmentation accuracy and robustness across 15 public datasets.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/caaseg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Composite Alignment-Aware Framework for Myocardial Lesion Segmentation in Multi-sequence CMR Images](https://link.springer.com/chapter/10.1007/978-3-032-04927-8_1)
+
+**Yifan Gao**, Shaohao Rui, Haoyang Su, Jinyi Xiang, Lianming Wu, Xiaosong Wang
+
+**MICCAI 2025**
+
+[**Project**](https://github.com/yifangao112/CAA-Seg)
+- CAA-Seg addresses spatial misalignment and intensity variations in multi-sequence CMR images through selective slice alignment and hierarchical feature alignment. It achieves superior performance in myocardial lesion segmentation, particularly for myocardial infarction, on a large-scale dataset.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/prnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prior-driven refinement network for small organ-at-risk segmentation in head and neck cancer](https://www.sciencedirect.com/science/article/abs/pii/S0952197625016070)
+
+Taibao Wang#, **Yifan Gao#**, Bingyu Liang, Qin Wang
+
+**Engineering Applications of Artificial Intelligence**
+
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0952197625016070)
+- PRNet is a prior-driven refinement network that leverages foundation models and domain-specific knowledge for small organ-at-risk segmentation. It incorporates a prior encoder and mask refinement transformer to improve accuracy, demonstrating superior performance on multiple public datasets.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/dinounet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation](https://arxiv.org/abs/2508.20909)
+
+**Yifan Gao**, Haoyue Li, Feng Yuan, Xiaosong Wang, Xin Gao
+
+**arXiv 2025**
+
+[**Project**](https://github.com/yifangao112/DinoUNet)
+- Dino U-Net exploits high-fidelity dense features from the DINOv3 foundation model for medical image segmentation. It features a fidelity-aware projection module to preserve feature quality, achieving state-of-the-art performance and scalability across diverse medical imaging datasets.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS 2024</div><img src='images/larynxllm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -93,7 +149,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 **Computers in Biology and Medicine**
 
 [**Project**](https://github.com/yifangao112/PTNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose PT-Net, a Transformer-based multimodal fusion network for parotid tumor segmentation. It uses an anatomy-aware loss to distinguish tumors from similar structures, achieving higher accuracy than existing methods. 
+- We propose PT-Net, a Transformer-based multimodal fusion network that effectively integrates information from three MRI modalities. By incorporating a novel anatomy-aware loss function, PT-Net significantly improves segmentation accuracy by distinguishing parotid tumors from similar surrounding anatomical structures, outperforming existing state-of-the-art methods. 
 </div>
 </div>
 
@@ -107,7 +163,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 **IEEE Transactions on Games**
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We present PAGE, the first large-scale dataset of professional Go games with extensive annotations. It includes over 98,000 games and supports research in game analysis and AI. 
+- We present PAGE, the first large-scale dataset of professional Go games with extensive annotations. Spanning over 70 years, it contains 98,525 games played by 2,007 professional players. The dataset includes comprehensive game-level metadata and detailed in-game statistics generated by the KataGo engine, enabling advanced research in game analysis and AI. 
 </div>
 </div>
 
@@ -121,7 +177,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 **Electronics**
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose NoGoZero+, an improved AlphaZero-based agent for the game of NoGo. It achieves 6x faster training and outperforms the original AlphaZero with significantly less data. 
+- We propose NoGoZero+, an enhanced AlphaZero-based agent for the game of NoGo. By introducing innovative training strategies, it achieves a 6x speedup in training and defeats the original AlphaZero agent with significantly less data (20k vs 120k games). The program was the runner-up in the 2020 China Computer Game Championship. 
 </div>
 </div>
 
@@ -137,7 +193,19 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 - Academic Scholarship, Northeastern University, 2018-2021
 
 # 💻 Services
-- Reviewer of IEEE Transactions on Medical Imaging (TMI), International Journal of Surgery, IEEE Journal of Biomedical and Health Informatics (JBHI), Medical Image Computing and Computer Assisted Intervention (MICCAI), International Journal of Imaging Systems and Technology (IMA), PeerJ Computer Science, IEEE Access, Applied Sciences, IEEE Transactions on Radiation and Plasma Medical Sciences, Advanced Engineering Informatics, Frontiers in Medicine, Cell Reports Medicine
+Reviewer of:
+- IEEE Transactions on Medical Imaging (TMI)
+- International Journal of Surgery
+- IEEE Journal of Biomedical and Health Informatics (JBHI)
+- Medical Image Computing and Computer Assisted Intervention (MICCAI)
+- International Journal of Imaging Systems and Technology (IMA)
+- PeerJ Computer Science
+- IEEE Access
+- Applied Sciences
+- IEEE Transactions on Radiation and Plasma Medical Sciences
+- Advanced Engineering Informatics
+- Frontiers in Medicine
+- Cell Reports Medicine
 
 # 🏸 Hobbies
 - Go (Weiqi): Certified as amateur 5 dan by Chinese Weiqi Association.
