@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍🎓 About me
 I'm a Ph.D student at School of Biomedical Engineering, University of Science and Technology of China. I'm also pursuing my doctoral studies at the Shanghai Innovation Institute (上海创智学院) through a joint program, advised by Prof. [Xiaosong Wang](https://scholar.google.com/citations?user=c66GnOEAAAAJ&hl=en) and Prof. [Xin Gao](http://sibet.cas.cn/sourcedb/zw/yjdw/yjy/201306/t20130621_3879548.html). Prior to this, I obtained my bachelor's degree in biomedical engineering from Northeastern University in 2022. My research interests include medical image analysis and AI in medicine, with a particular focus on developing **Foundation models** and **Multimodal LLMs** for healthcare applications. My goal is to address medical challenges through computational methods and contribute to improving the quality of healthcare. 
 
-In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developer of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021.
+In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developer of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021. Google Scholar Citations: <span id="total_cit"></span>
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted at **Engineering Applications of Artificial Intelligence** (IF=8.0).
@@ -91,7 +91,7 @@ Taibao Wang#, **Yifan Gao#**, Bingyu Liang, Qin Wang
 
 **arXiv 2025**
 
-[**Project**](https://github.com/yifangao112/DinoUNet) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:NMxIlDl6LWMC'></span></strong>
+[**Project**](https://github.com/yifangao112/DinoUNet) <strong><span class='show_paper_citations' data='lzAiM94AAAAJ:YFjsv_pBGBYC'></span></strong>
 - Dino U-Net exploits high-fidelity dense features from the DINOv3 foundation model for medical image segmentation. It features a fidelity-aware projection module to preserve feature quality, achieving state-of-the-art performance and scalability across diverse medical imaging datasets.
 </div>
 </div>
@@ -176,7 +176,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 
 **Electronics**
 
-<strong><span class='show_paper_citations' data='lzAiM94AAAAJ:4TOpqqG69KYC'></span></strong>
+<strong><span class='show_paper_citations' data='lzAiM94AAAAJ:qjMakFHDy7sC'></span></strong>
 - We propose NoGoZero+, an enhanced AlphaZero-based agent for the game of NoGo. By introducing innovative training strategies, it achieves a 6x speedup in training and defeats the original AlphaZero agent with significantly less data (20k vs 120k games). The program was the runner-up in the 2020 China Computer Game Championship. 
 </div>
 </div>
