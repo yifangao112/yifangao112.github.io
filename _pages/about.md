@@ -181,6 +181,8 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
+- [An unsupervised anatomy-aware dual-constraint cascade network for lung computed tomography deformable image registration](https://www.sciencedirect.com/science/article/pii/S0952197625015507), Wenbin Wu, **Yifan Gao**, Xin Jin, Rui Zhang, Yuemei Pan, Xin Gao, **Engineering Applications of Artificial Intelligence**, 2025
+- [EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds](https://ieeexplore.ieee.org/abstract/document/9619111), Wenbin Wu, **Yifan Gao**, Yixiu Wang, Jiayi Zhang, Yiming Zhao, Xin Gao, **MICCAI 2025**, 2025
 - [PGD: A Large-scale Professional Go Dataset for Data-driven Analytics](https://ieeexplore.ieee.org/abstract/document/9893704), **Yifan Gao**, **IEEE Conference on Games**, 2022
 - [GomokuNet: A Novel UNet-style Network for Gomoku Zero Learning via Exploiting Positional Information and Multiscale Features](https://ieeexplore.ieee.org/abstract/document/9619111), **Yifan Gao**, Lezhou Wu, Haoyue Li, **IEEE Conference on Games**, 2021
 - [TransMed: Transformers Advance Multi-modal Medical Image Classification](https://www.mdpi.com/2075-4418/11/8/1384), Yin Dai, **Yifan Gao**, Fayu Liu, **Diagnostics**, 2021 (This paper was the most cited article among 3,223 papers published in this journal in 2021, according to Web of Science)
