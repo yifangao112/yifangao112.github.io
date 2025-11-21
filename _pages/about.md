@@ -32,7 +32,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 - *2023.05*: &nbsp;🎉🎉 Our work is accepted at **Computers in Biology and Medicine** (IF=7.7).
 - *2022.06*: &nbsp;🎉🎉 Received the **Excellence Scholarship**, Northeastern University, 2022.
 
-# 📖 Education
+# 📖 Educations
 - 2024 - present, Ph.D. in Artificial Intelligence, Shanghai Innovation Institute, Shanghai, China 
 - 2024 - present, Ph.D. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
 - 2022 - 2024, M.Sc. in Biomedical Engineering, University of Science and Technology of China, Hefei, China 
