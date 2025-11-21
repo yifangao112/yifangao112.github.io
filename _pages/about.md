@@ -40,7 +40,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/safeclick.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/safeclick.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SafeClick: Error-Tolerant Interactive Segmentation of Any Medical Volumes via Hierarchical Expert Consensus](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_46)
@@ -54,7 +54,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/caaseg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/caaseg.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Composite Alignment-Aware Framework for Myocardial Lesion Segmentation in Multi-sequence CMR Images](https://link.springer.com/chapter/10.1007/978-3-032-04927-8_1)
@@ -68,7 +68,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/prnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/prnet.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prior-driven refinement network for small organ-at-risk segmentation in head and neck cancer](https://www.sciencedirect.com/science/article/abs/pii/S0952197625016070)
@@ -82,7 +82,7 @@ Taibao Wang#, **Yifan Gao#**, Bingyu Liang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/dinounet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/dinounet.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation](https://arxiv.org/abs/2508.20909)
@@ -96,7 +96,7 @@ Taibao Wang#, **Yifan Gao#**, Bingyu Liang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS 2024</div><img src='images/larynxllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS 2024</div><img src='images/larynxllm.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Large Language Models Address Clinical Queries in Laryngeal Cancer Surgery: A Comparative Evaluation of Image Interpretation Across Different Models](https://pubmed.ncbi.nlm.nih.gov/39869389/)
@@ -111,7 +111,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/desam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/desam.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_48)
@@ -125,7 +125,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/mbanet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/mbanet.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_41)
@@ -139,7 +139,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2023</div><img src='images/parotid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2023</div><img src='images/parotid.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651)
@@ -153,7 +153,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ToG 2023</div><img src='images/page.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ToG 2023</div><img src='images/page.png' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Professional Go Annotation Dataset](https://ieeexplore.ieee.org/document/10123061)
@@ -167,7 +167,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2021</div><img src='images/nogo.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2021</div><img src='images/nogo.jpeg' alt="sym" width="100%" style="max-width: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Efficiently Mastering the Game of NoGo with Deep Reinforcement Learning Supported by Domain Knowledge](https://www.mdpi.com/2079-9292/10/13/1533)
