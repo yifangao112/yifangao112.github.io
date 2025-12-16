@@ -18,11 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About me
-I'm a Ph.D student at School of Biomedical Engineering, University of Science and Technology of China. I'm also pursuing my doctoral studies at the Shanghai Innovation Institute (上海创智学院) through a joint program, advised by Prof. [Xiaosong Wang](https://scholar.google.com/citations?user=c66GnOEAAAAJ&hl=en) and Prof. [Xin Gao](http://sibet.cas.cn/sourcedb/zw/yjdw/yjy/201306/t20130621_3879548.html). Prior to this, I obtained my bachelor's degree in biomedical engineering from Northeastern University in 2022. My research interests include medical image analysis and AI in medicine, with a particular focus on developing **Foundation models** and **Multimodal LLMs** for healthcare applications. My goal is to address medical challenges through computational methods and contribute to improving the quality of healthcare. 
+I'm a Ph.D student at School of Biomedical Engineering, University of Science and Technology of China. I'm also pursuing my doctoral studies at the Shanghai Innovation Institute (上海创智学院) through a joint program, advised by Prof. [Xiaosong Wang](https://scholar.google.com/citations?user=c66GnOEAAAAJ&hl=en) and Prof. [Xin Gao](http://sibet.cas.cn/sourcedb/zw/yjdw/yjy/201306/t20130621_3879548.html). Prior to this, I obtained my bachelor's degree in biomedical engineering from Northeastern University in 2022. My research interests include medical image analysis and AI in medicine, with a particular focus on developing **Foundation models** and **AI agents** for healthcare applications. My goal is to address medical challenges through computational methods and contribute to improving the quality of healthcare. 
 
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developer of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our work is accepted at **Medical Image Analysis** (IF=11.8).
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted at **Engineering Applications of Artificial Intelligence** (IF=8.0).
 - *2025.06*: &nbsp;🎉🎉 Three papers are accepted at **MICCAI 2025**.
 - *2025.01*: &nbsp;🎉🎉 Our work is accepted at **International Journal of Surgery** (IF=12.5).
@@ -39,6 +40,19 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 - 2018 - 2022, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2025</div><img src='images/cianet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CIA-Net: Cross-modality Interaction and Aggregation Network for Ovarian Tumor Segmentation from Multi-modal MRI](https://www.sciencedirect.com/science/article/abs/pii/S1361841525004530)
+
+**Yifan Gao**, Yong’ai Li, Xin Gao
+
+**MICCAI 2025**
+
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525004530)
+- This paper proposes CIA-Net, a novel hybrid architecture for ovarian tumor segmentation that treats T2-weighted MRI as the primary modality while selectively integrating complementary features from minor modalities to reduce noise and redundancy. Validated on a large multi-center dataset and public benchmarks, the method achieves state-of-the-art performance by effectively handling the heterogeneous and complex nature of ovarian tumors.</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/safeclick.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
