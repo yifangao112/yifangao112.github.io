@@ -51,7 +51,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 **Medical Image Analysis**
 
 [**Project**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525004530)
-- This paper proposes CIA-Net, a novel hybrid architecture for ovarian tumor segmentation that treats T2-weighted MRI as the primary modality while selectively integrating complementary features from minor modalities to reduce noise and redundancy. Validated on a large multi-center dataset and public benchmarks, the method achieves state-of-the-art performance by effectively handling the heterogeneous and complex nature of ovarian tumors.
+- This paper proposes CIA-Net, a novel hybrid architecture for ovarian tumor segmentation that treats T2-weighted MRI as the primary modality while selectively integrating complementary features from minor modalities to reduce noise and redundancy.
 </div>
 </div>
 
@@ -121,7 +121,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 **International Journal of Surgery**
 
 [**Project**](https://pubmed.ncbi.nlm.nih.gov/39869389/)
-- Six multimodal large language models (MLLMs) were evaluated across 6 image types, 169 images, and 1084 open-ended clinical questions in laryngeal cancer surgery. Advanced MLLMs demonstrate high accuracy (up to 79.43%) in interpreting diverse image modalities, with commercial models outperforming open-source alternatives. MLLMs show potential to enhance clinical decision-making across the surgical timeline of laryngeal cancer, from preoperative planning to post-operative care.
+- Six multimodal large language models (MLLMs) were evaluated across 6 image types, 169 images, and 1084 open-ended clinical questions in laryngeal cancer surgery. Advanced MLLMs demonstrate high accuracy (up to 79.43%) in interpreting diverse image modalities, with commercial models outperforming open-source alternatives.
  
 </div>
 </div>
@@ -150,7 +150,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 **MICCAI 2024**
 
 [**Project**](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_41)
-- We developed MBA-Net, a novel architecture for ovarian tumor segmentation that integrates the Segment Anything Model (SAM) with domain-specific knowledge through bidirectional feature aggregation. MBA-Net demonstrates superior segmentation accuracy, robustness to tumor heterogeneity, and strong generalization capability across different imaging modalities and clinical sites. 
+- We developed MBA-Net, a novel architecture for ovarian tumor segmentation that integrates the Segment Anything Model (SAM) with domain-specific knowledge through bidirectional feature aggregation. MBA-Net demonstrates superior accuracy, robustness to tumor heterogeneity, and strong generalization capability across different clinical sites. 
 </div>
 </div>
 
@@ -164,7 +164,7 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 **Computers in Biology and Medicine**
 
 [**Project**](https://github.com/yifangao112/PTNet)
-- We propose PT-Net, a Transformer-based multimodal fusion network that effectively integrates information from three MRI modalities. By incorporating a novel anatomy-aware loss function, PT-Net significantly improves segmentation accuracy by distinguishing parotid tumors from similar surrounding anatomical structures, outperforming existing state-of-the-art methods. 
+- We propose PT-Net, a Transformer-based multimodal fusion network that effectively integrates information from three MRI modalities. By incorporating a novel anatomy-aware loss function, PT-Net significantly improves segmentation accuracy by distinguishing parotid tumors from similar surrounding anatomical structures. 
 </div>
 </div>
 
