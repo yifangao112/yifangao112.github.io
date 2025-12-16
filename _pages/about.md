@@ -48,7 +48,7 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 **Yifan Gao**, Yong’ai Li, Xin Gao
 
-**MICCAI 2025**
+**Medical Image Analysis**
 
 [**Project**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525004530)
 - This paper proposes CIA-Net, a novel hybrid architecture for ovarian tumor segmentation that treats T2-weighted MRI as the primary modality while selectively integrating complementary features from minor modalities to reduce noise and redundancy. Validated on a large multi-center dataset and public benchmarks, the method achieves state-of-the-art performance by effectively handling the heterogeneous and complex nature of ovarian tumors.</div>
