@@ -51,7 +51,8 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 **Medical Image Analysis**
 
 [**Project**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525004530)
-- This paper proposes CIA-Net, a novel hybrid architecture for ovarian tumor segmentation that treats T2-weighted MRI as the primary modality while selectively integrating complementary features from minor modalities to reduce noise and redundancy. Validated on a large multi-center dataset and public benchmarks, the method achieves state-of-the-art performance by effectively handling the heterogeneous and complex nature of ovarian tumors.</div>
+- This paper proposes CIA-Net, a novel hybrid architecture for ovarian tumor segmentation that treats T2-weighted MRI as the primary modality while selectively integrating complementary features from minor modalities to reduce noise and redundancy. Validated on a large multi-center dataset and public benchmarks, the method achieves state-of-the-art performance by effectively handling the heterogeneous and complex nature of ovarian tumors.
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/safeclick.png' alt="sym" width="100%"></div></div>
