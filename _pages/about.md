@@ -227,6 +227,11 @@ Reviewer of:
 - Advanced Engineering Informatics
 - Frontiers in Medicine
 - Cell Reports Medicine
+- Journal of Clinical Medicine
+- Biomedical Signal Processing and Control
+- Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization
+- Frontiers in Oncology
+- Expert Systems With Applications
 
 # 🏸 Hobbies
 - Go (Weiqi): Certified as amateur 5 dan by Chinese Weiqi Association.
