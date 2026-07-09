@@ -23,6 +23,7 @@ I'm a Ph.D student at School of Biomedical Engineering, University of Science an
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developer of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Released **Camyla**, an autonomous research pipeline for medical image segmentation.
 - *2025.12*: &nbsp;🎉🎉 Our work is accepted at **Medical Image Analysis** (IF=11.8).
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted at **Engineering Applications of Artificial Intelligence** (IF=8.0).
 - *2025.06*: &nbsp;🎉🎉 Three papers are accepted at **MICCAI 2025**.
@@ -40,6 +41,20 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 - 2018 - 2022, B.E. in Biomedical Engineering, Northeastern University, Shenyang, China. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/camyla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Camyla: Scaling Autonomous Research in Medical Image Segmentation](https://arxiv.org/abs/2604.10696)
+
+**Yifan Gao**, Haoyue Li, Feng Yuan, Xin Gao, Weiran Huang, Xiaosong Wang
+
+**arXiv 2026**
+
+[**Project**](https://github.com/yifangao112/Camyla) [**arXiv**](https://arxiv.org/abs/2604.10696)
+- Camyla is an autonomous research pipeline for medical image segmentation that takes a dataset in and produces complete research manuscripts end-to-end. It combines literature-grounded idea generation, QWBE-based experiment search, OpenHands-driven code execution, and automated paper writing, outperforming strong per-dataset baselines on 24 of 31 CamylaBench datasets.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2025</div><img src='images/cianet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
