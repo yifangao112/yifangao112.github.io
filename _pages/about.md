@@ -23,8 +23,9 @@ I'm a Ph.D student at School of Biomedical Engineering, University of Science an
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developer of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021.
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Three papers are accepted at **MICCAI 2026**.
 - *2026.04*: &nbsp;🎉🎉 Released **Camyla**, an autonomous research pipeline for medical image segmentation.
-- *2025.12*: &nbsp;🎉🎉 Our work is accepted at **Medical Image Analysis** (IF=11.8).
+- *2026.01*: &nbsp;🎉🎉 Our work is accepted at **Medical Image Analysis** (IF=14.0).
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted at **Engineering Applications of Artificial Intelligence** (IF=8.0).
 - *2025.06*: &nbsp;🎉🎉 Three papers are accepted at **MICCAI 2025**.
 - *2025.01*: &nbsp;🎉🎉 Our work is accepted at **International Journal of Surgery** (IF=12.5).
@@ -112,14 +113,14 @@ Taibao Wang#, **Yifan Gao#**, Bingyu Liang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/dinounet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/dinounet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation](https://arxiv.org/abs/2508.20909)
 
 **Yifan Gao**, Haoyue Li, Feng Yuan, Xiaosong Wang, Xin Gao
 
-**arXiv 2025**
+**MICCAI 2026**
 
 [**Project**](https://github.com/yifangao112/DinoUNet)
 - Dino U-Net exploits high-fidelity dense features from the DINOv3 foundation model for medical image segmentation. It features a fidelity-aware projection module to preserve feature quality, achieving state-of-the-art performance and scalability across diverse medical imaging datasets.
