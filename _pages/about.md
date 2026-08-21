@@ -23,7 +23,7 @@ I'm a Ph.D student at School of Biomedical Engineering, University of Science an
 In addition to my academic pursuits, I have a keen interest in sports and game data analysis. I maintain [PAGE](https://ieeexplore.ieee.org/abstract/document/10123061), a large-scale annotated database of professional Go games. I am also the developer of DeepKylin, an AlphaZero-like AI agent for Gomoku. It won the [National Computer Game Tournament](http://computergames.caai.cn/) in both 2020 and 2021.
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 One paper is accepted to **EMNLP 2026 Main Conference**.
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted to **EMNLP 2026 Main Conference**.
 - *2026.06*: &nbsp;🎉🎉 Three papers are accepted at **MICCAI 2026**.
 - *2026.04*: &nbsp;🎉🎉 Released **Camyla**, an autonomous research pipeline for medical image segmentation.
 - *2026.01*: &nbsp;🎉🎉 Our work is accepted at **Medical Image Analysis** (IF=14.0).
