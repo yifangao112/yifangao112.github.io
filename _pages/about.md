@@ -44,6 +44,19 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/reig.png' alt="REIG validation-aware discovery workflow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific Discovery
+
+**Yifan Gao**, et al.
+
+**EMNLP 2026** main conference
+
+- This paper introduces REIG for LLM-guided scientific discovery. Instead of treating every surprising result as valuable, REIG checks whether a finding remains stable under repeated sampling and is unlikely to come from chance, then uses that evidence to guide the next round of experiments. This helps research agents focus on reliable discoveries rather than noise, data leakage, or accidental patterns.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/camyla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
