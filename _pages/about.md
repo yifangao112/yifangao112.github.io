@@ -49,11 +49,11 @@ In addition to my academic pursuits, I have a keen interest in sports and game d
 
 When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific Discovery
 
-**Yifan Gao**, et al.
+**Yifan Gao**, Haoyue Li, Yuan Feng, Xin Gao
 
 **EMNLP 2026** main conference
 
-- This paper introduces REIG for LLM-guided scientific discovery. Instead of treating every surprising result as valuable, REIG checks whether a finding remains stable under repeated sampling and is unlikely to come from chance, then uses that evidence to guide the next round of experiments. This helps research agents focus on reliable discoveries rather than noise, data leakage, or accidental patterns.
+- REIG uses validated, stable evidence to guide LLM-based scientific discovery, helping research agents avoid noise and accidental patterns.
 </div>
 </div>
 
