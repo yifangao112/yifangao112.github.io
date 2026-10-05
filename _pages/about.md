@@ -175,11 +175,17 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
+- [Predicting major adverse cardiovascular events from incomplete clinical data through interpretable multimodal AI system](https://www.nature.com/articles/s41746-026-03008-3), Shaohao Rui, Jinyi Xiang, Haoyang Su, **Yifan Gao**, Xingyu Chen, Tingxuan Yin, Lei Zhao, Xiaosong Wang, Lian-Ming Wu, **npj Digital Medicine**, 2026
+
+- [FermatSyn: SAM2-Enhanced Bidirectional Mamba with Isotropic Spiral Scanning for Multi-Modal Medical Image Synthesis](https://link.springer.com/chapter/10.1007/978-3-032-38062-3_22), Feng Yuan, **Yifan Gao**, Haoyue Li, Xin Gao, **MICCAI 2026**
+
+- [MedRAG-SCA: A Retrieval-Augmented Self-Correcting Agent for Clinically Compliant Cross-Modality MRI Synthesis](https://link.springer.com/chapter/10.1007/978-3-032-38189-7_26), Feng Yuan, **Yifan Gao**, Haoyue Li, Xin Gao, **MICCAI 2026**
+
 - [Prior-driven refinement network for small organ-at-risk segmentation in head and neck cancer](https://www.sciencedirect.com/science/article/abs/pii/S0952197625016070), Taibao Wang#, **Yifan Gao#**, Bingyu Liang, Qin Wang, **Engineering Applications of Artificial Intelligence**, 2025
 
 - [An unsupervised anatomy-aware dual-constraint cascade network for lung computed tomography deformable image registration](https://www.sciencedirect.com/science/article/pii/S0952197625015507), Wenbin Wu, **Yifan Gao**, Xin Jin, Rui Zhang, Yuemei Pan, Xin Gao, **Engineering Applications of Artificial Intelligence**, 2025
 
-- [EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds](https://ieeexplore.ieee.org/abstract/document/9619111), Wenbin Wu, **Yifan Gao**, Yixiu Wang, Jiayi Zhang, Yiming Zhao, Xin Gao, **MICCAI 2025**, 2025
+- [EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds](https://ieeexplore.ieee.org/abstract/document/9619111), Wenbin Wu, **Yifan Gao**, Yixiu Wang, Jiayi Zhang, Yiming Zhao, Xin Gao, **MICCAI 2025**
 
 - [An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651), **Yifan Gao#**, Yin Dai#, Fayu Liu, Weibing Chen, Lifu Shi, **Computers in Biology and Medicine**, 2023. [**Project**](https://github.com/yifangao112/PTNet)
 
