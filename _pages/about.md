@@ -53,7 +53,7 @@ When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific 
 
 **EMNLP 2026** main conference
 
-- REIG uses validated, stable evidence to guide LLM-based scientific discovery, helping research agents avoid noise and accidental patterns.
+- LLM-based scientific discovery agents often reward surprising results, even when they arise from noise or data leakage. To prioritize reliable findings, we introduce REIG, which uses resampling and statistical validation to guide further experiments. Under the same experimental budget, REIG finds more valid discoveries and fewer false findings than surprise-based rewards.
 </div>
 </div>
 
@@ -110,20 +110,6 @@ When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific 
 
 [**Project**](https://github.com/yifangao112/CAA-Seg)
 - CAA-Seg addresses spatial misalignment and intensity variations in multi-sequence CMR images through selective slice alignment and hierarchical feature alignment. It achieves superior performance in myocardial lesion segmentation, particularly for myocardial infarction, on a large-scale dataset.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/prnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Prior-driven refinement network for small organ-at-risk segmentation in head and neck cancer](https://www.sciencedirect.com/science/article/abs/pii/S0952197625016070)
-
-Taibao Wang#, **Yifan Gao#**, Bingyu Liang, Qin Wang
-
-**Engineering Applications of Artificial Intelligence**
-
-[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0952197625016070)
-- PRNet is a prior-driven refinement network that leverages foundation models and domain-specific knowledge for small organ-at-risk segmentation. It incorporates a prior encoder and mask refinement transformer to improve accuracy, demonstrating superior performance on multiple public datasets.
 </div>
 </div>
 
@@ -184,20 +170,6 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2023</div><img src='images/parotid.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651)
-
-**Yifan Gao#**, Yin Dai#, Fayu Liu, Weibing Chen, Lifu Shi
-
-**Computers in Biology and Medicine**
-
-[**Project**](https://github.com/yifangao112/PTNet)
-- We propose PT-Net, a Transformer-based multimodal fusion network that effectively integrates information from three MRI modalities. By incorporating a novel anatomy-aware loss function, PT-Net significantly improves segmentation accuracy by distinguishing parotid tumors from similar surrounding anatomical structures. 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ToG 2023</div><img src='images/page.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -212,25 +184,17 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2021</div><img src='images/nogo.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Efficiently Mastering the Game of NoGo with Deep Reinforcement Learning Supported by Domain Knowledge](https://www.mdpi.com/2079-9292/10/13/1533)
-
-**Yifan Gao#**, Lezhou Wu#
-
-**Electronics**
-
-[**Project**](https://www.mdpi.com/2079-9292/10/13/1533)
-- We propose NoGoZero+, an enhanced AlphaZero-based agent for the game of NoGo. By introducing innovative training strategies, it achieves a 6x speedup in training and defeats the original AlphaZero agent with significantly less data (20k vs 120k games). The program was the runner-up in the 2020 China Computer Game Championship. 
-</div>
-</div>
+- [Prior-driven refinement network for small organ-at-risk segmentation in head and neck cancer](https://www.sciencedirect.com/science/article/abs/pii/S0952197625016070), Taibao Wang#, **Yifan Gao#**, Bingyu Liang, Qin Wang, **Engineering Applications of Artificial Intelligence**, 2025
 
 - [An unsupervised anatomy-aware dual-constraint cascade network for lung computed tomography deformable image registration](https://www.sciencedirect.com/science/article/pii/S0952197625015507), Wenbin Wu, **Yifan Gao**, Xin Jin, Rui Zhang, Yuemei Pan, Xin Gao, **Engineering Applications of Artificial Intelligence**, 2025
 
 - [EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds](https://ieeexplore.ieee.org/abstract/document/9619111), Wenbin Wu, **Yifan Gao**, Yixiu Wang, Jiayi Zhang, Yiming Zhao, Xin Gao, **MICCAI 2025**, 2025
 
+- [An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482523004651), **Yifan Gao#**, Yin Dai#, Fayu Liu, Weibing Chen, Lifu Shi, **Computers in Biology and Medicine**, 2023. [**Project**](https://github.com/yifangao112/PTNet)
+
 - [PGD: A Large-scale Professional Go Dataset for Data-driven Analytics](https://ieeexplore.ieee.org/abstract/document/9893704), **Yifan Gao**, **IEEE Conference on Games**, 2022
+
+- [Efficiently Mastering the Game of NoGo with Deep Reinforcement Learning Supported by Domain Knowledge](https://www.mdpi.com/2079-9292/10/13/1533), **Yifan Gao#**, Lezhou Wu#, **Electronics**, 2021
 
 - [GomokuNet: A Novel UNet-style Network for Gomoku Zero Learning via Exploiting Positional Information and Multiscale Features](https://ieeexplore.ieee.org/abstract/document/9619111), **Yifan Gao**, Lezhou Wu, Haoyue Li, **IEEE Conference on Games**, 2021
 
