@@ -64,9 +64,8 @@ When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific 
 
 **Yifan Gao**, Haoyue Li, Feng Yuan, Xin Gao, Weiran Huang, Xiaosong Wang
 
-**arXiv 2026**
+**arXiv 2026** [**Project**](https://github.com/yifangao112/Camyla) [**arXiv**](https://arxiv.org/abs/2604.10696)
 
-[**Project**](https://github.com/yifangao112/Camyla) [**arXiv**](https://arxiv.org/abs/2604.10696)
 - Camyla is an autonomous research pipeline for medical image segmentation that takes a dataset in and produces complete research manuscripts end-to-end. It combines literature-grounded idea generation, QWBE-based experiment search, OpenHands-driven code execution, and automated paper writing, outperforming strong per-dataset baselines on 24 of 31 CamylaBench datasets.
 </div>
 </div>
@@ -78,9 +77,8 @@ When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific 
 
 **Yifan Gao**, Yong’ai Li, Xin Gao
 
-**Medical Image Analysis**
+**Medical Image Analysis** [**Project**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525004530)
 
-[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525004530)
 - This paper proposes CIA-Net, a novel hybrid architecture for ovarian tumor segmentation that treats T2-weighted MRI as the primary modality while selectively integrating complementary features from minor modalities to reduce noise and redundancy.
 </div>
 </div>
@@ -92,9 +90,8 @@ When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific 
 
 **Yifan Gao#**, Jiaxi Sheng#, Wenbin Wu, Haoyue Li, Yaoxian Dong, Chaoyang Ge, Feng Yuan, Xin Gao
 
-**MICCAI 2025**
+**MICCAI 2025** [**Project**](https://github.com/yifangao112/SafeClick)
 
-[**Project**](https://github.com/yifangao112/SafeClick)
 - SafeClick is an error-tolerant interactive segmentation approach that uses hierarchical expert consensus to handle imperfect user prompts. As a plug-and-play module compatible with foundation models like SAM 2, it significantly improves segmentation accuracy and robustness across 15 public datasets.
 </div>
 </div>
@@ -106,9 +103,8 @@ When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific 
 
 **Yifan Gao**, Shaohao Rui, Haoyang Su, Jinyi Xiang, Lianming Wu, Xiaosong Wang
 
-**MICCAI 2025**
+**MICCAI 2025** [**Project**](https://github.com/yifangao112/CAA-Seg)
 
-[**Project**](https://github.com/yifangao112/CAA-Seg)
 - CAA-Seg addresses spatial misalignment and intensity variations in multi-sequence CMR images through selective slice alignment and hierarchical feature alignment. It achieves superior performance in myocardial lesion segmentation, particularly for myocardial infarction, on a large-scale dataset.
 </div>
 </div>
@@ -120,9 +116,8 @@ When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific 
 
 **Yifan Gao**, Haoyue Li, Feng Yuan, Xiaosong Wang, Xin Gao
 
-**MICCAI 2026**
+**MICCAI 2026** [**Project**](https://github.com/yifangao112/DinoUNet)
 
-[**Project**](https://github.com/yifangao112/DinoUNet)
 - Dino U-Net exploits high-fidelity dense features from the DINOv3 foundation model for medical image segmentation. It features a fidelity-aware projection module to preserve feature quality, achieving state-of-the-art performance and scalability across diverse medical imaging datasets.
 </div>
 </div>
@@ -134,9 +129,8 @@ When Surprise Is Not Enough: Validation-Aware Rewards for LLM-Guided Scientific 
 
 Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 
-**International Journal of Surgery**
+**International Journal of Surgery** [**Project**](https://pubmed.ncbi.nlm.nih.gov/39869389/)
 
-[**Project**](https://pubmed.ncbi.nlm.nih.gov/39869389/)
 - Six multimodal large language models (MLLMs) were evaluated across 6 image types, 169 images, and 1084 open-ended clinical questions in laryngeal cancer surgery. Advanced MLLMs demonstrate high accuracy (up to 79.43%) in interpreting diverse image modalities, with commercial models outperforming open-source alternatives.
  
 </div>
@@ -149,9 +143,8 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 
 **Yifan Gao**, Wei Xia, Dingdu Hu, Wenkui Wang, Xin Gao
 
-**MICCAI 2024**
+**MICCAI 2024** [**Project**](https://github.com/yifangao112/DeSAM)
 
-[**Project**](https://github.com/yifangao112/DeSAM)
 - DeSAM addresses the performance degradation of SAM in automatic segmentation scenarios. By decoupling the mask generation process from prompts and introducing prompt-relevant IoU and prompt-decoupled mask modules, DeSAM achieves state-of-the-art performance in two public datasets. 
 </div>
 </div>
@@ -163,9 +156,8 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 
 **Yifan Gao**, Wei Xia, Wenkui Wang, Xin Gao
 
-**MICCAI 2024**
+**MICCAI 2024** [**Project**](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_41)
 
-[**Project**](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_41)
 - We developed MBA-Net, a novel architecture for ovarian tumor segmentation that integrates the Segment Anything Model (SAM) with domain-specific knowledge through bidirectional feature aggregation. MBA-Net demonstrates superior accuracy, robustness to tumor heterogeneity, and strong generalization capability across different clinical sites. 
 </div>
 </div>
@@ -177,9 +169,8 @@ Bingyu Liang#, **Yifan Gao#**, Taibao Wang, Lei Zhang, Qin Wang
 
 **Yifan Gao**, Danni Zhang, Haoyue Li
 
-**IEEE Transactions on Games**
+**IEEE Transactions on Games** [**Project**](https://github.com/yifangao112/PAGE)
 
-[**Project**](https://github.com/yifangao112/PAGE) 
 - We present PAGE, the first large-scale dataset of professional Go games with extensive annotations. Spanning over 70 years, it contains 98,525 games played by 2,007 professional players. The dataset includes comprehensive game-level metadata and detailed in-game statistics generated by the KataGo engine, enabling advanced research in game analysis and AI. 
 </div>
 </div>
